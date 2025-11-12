@@ -36,5 +36,5 @@
 
 
 
-\# Maps and Hash Tables
+# Maps and Hash Tables
 
