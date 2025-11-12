@@ -1,4 +1,4 @@
-(Course Material)\[https://web.engr.oregonstate.edu/~hessro/teaching/cs261-f25]
+[Course Material](https://web.engr.oregonstate.edu/~hessro/teaching/cs261-f25)
 
 
 
