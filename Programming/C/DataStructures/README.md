@@ -2,37 +2,37 @@
 
 
 
-\# Dynamic Arrays \& Linked Lists
+# Dynamic Arrays & Linked Lists
 
 11/16
 
 
 
-\# Stacks and Queues
+# Stacks and Queues
 
 11/23
 
 
 
-\# Trees 
+# Trees 
 
 11/30
 
 
 
-\## Binary Search Trees
+## Binary Search Trees
 
 
 
-\## Binary Tree Traversals
+## Binary Tree Traversals
 
 
 
-\## AVL Trees
+## AVL Trees
 
 
 
-\# Priority Queues \& Heaps
+# Priority Queues & Heaps
 
 
 
